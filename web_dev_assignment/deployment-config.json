@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "******.***.**",
+    "username": "****",
+    "password": "********",
+    "port": 22,
+    "remotePath": "/*****/****/****/public_html/cgi-bin/lab7",
+    "uploadOnSave": true
+}

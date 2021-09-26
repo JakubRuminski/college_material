@@ -1,0 +1,34 @@
+body {
+    background-color: darkcyan;
+}
+canvas {
+    display: block;
+    margin: auto;
+    border: solid royalblue .5em;
+}
+form {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+input[type=text], [type=submit] {
+    font-size: 1em;
+    margin-top: .5em;
+}
+table {
+    border-collapse: collapse;
+}
+
+table,th,td {
+
+    margin: auto;
+    margin-top: .5em;
+    border: .1em solid black;
+    text-align: center;
+    background-color: #0695bd;
+    font-size: 1.2em;
+}
+th {
+    padding-left: 1em;
+    padding-right: 1em;
+}
